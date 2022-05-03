@@ -13,9 +13,11 @@
     width: 100%;
     border-bottom: 1px solid #f1f4f6;;
 }
+
 .help{
   cursor: pointer;
 }
+
 .offers{
   cursor: pointer;
 }
@@ -314,107 +316,6 @@ background-color:rgb(255, 111, 97);
 
   .modal_second_section{
     width: 50%;
-  }
-
-  .login_close_btn{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    width: 100%;
-  }
-  
-  .login_heading_section{
-    margin-top: 40px;
-    margin-bottom: 10px;
-  }
-
-  .login_first_heading{
-    font-size: 28px;
-    font-weight: 700;
-    color: #212121;
-    margin-bottom: 20px;
-  }
-
-  .login_second_heading{
-    font-size: 12px;
-    font-weight: 400;
-    color: #616161;
-    margin-bottom: 30px;
-  }
-
-  .login_input{
-    font-size: 16px;
-    border-bottom: 2px solid #d50000;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    padding-bottom: 5px;
-    padding-top: 8px;
-    left: 0;
-    width: 100%;
-  }
-
-  .login_input::after{
-    border-top: none;
-    border-left: none;
-    border-right: none;
-  }
-
-  .login_container{
-    width: 70%;
-  }
-
-  .login_button{
-    background-color: rgb(255, 111, 97);
-    color: rgb(255, 255, 255);
-    height: 40px;
-    padding: 0 16px;
-    font-weight: 700;
-    font-size: 16px;
-    border-radius: 4px;
-    z-index: 100;
-    cursor: pointer;
-    border: none;
-    width: 100%;
-    margin-top: 100px ;
-  }
-
-  .login_bottom_content{
-    margin-top: 16px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .login_bottom_first_section{
-    height: 40px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .login_bottom_first_section_first_text{
-    color: #616161;
-    font-size: 14px;
-    font-weight: 400;
-  }
-
-  .login_bottom_first_section_second_text{
-    color: #ff6f61;
-    cursor: pointer;
-    font-weight: 700;
-  }
-
-  .login_bottom_second_section{
-    margin-top: 10px;
-    margin-bottom: 30px;
-    font-size: 12px;
-  }
-
-  .login_bottom_second_section_first_row{
-    color: #9e9e9e;
-    text-align: center;
   }
 
   a .terms_and_conditions_text{

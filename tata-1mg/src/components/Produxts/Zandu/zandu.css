@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Lora&family=Roboto:wght@100&display=swap');
+/* font-family: 'Abel', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Roboto', sans-serif; */
+
+.Zandu-Fillter-page{
+    width:90%;
+    display:flex;
+    flex-direction: row;
+}
+
+.Zandu-page
+{
+    width:100%;
+    min-height:1200px;
+    /* border:1px solid red; */
+    position:relative;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:2%;
+    left:2%;
+    top:50px;
+  
+}
+
+
+.Zandu-main-contaner
+{
+    height:100%; 
+    /* border:1px solid black; */
+    position:relative;
+    background-color: white;
+
+}
+.Zandu-upper-contaner
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.Zandu-upper-contaner img{
+    margin-top: 15px;
+    height:170px;
+}
+.Zandu-middle-contaner{
+    margin-left:10px;
+    font-family: 'Lora', serif;
+    margin-top: 25px;
+    font-size:15px;
+}
+.product-info{ 
+    margin-top: 3px;
+    font-size:13px;
+    color:rgb(163, 163, 163)
+}
+.fa-star
+{
+    font-size:12px;
+    font-weight: 100;
+}
+.star-rating{
+    font-size:15px;
+    margin-top: 5px;
+    color:rgb(163, 163, 163);
+
+}
+.star{
+    background: green;
+    color:white
+}
+
+.Zandu-bottom-contaner{
+    font-family: 'Lora', serif;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.mrp-discount
+{
+    font-size:12px;
+    margin-top: 2px;
+}
+.mrp
+{
+    color:rgb(163, 163, 163);
+    text-decoration: line-through;
+}
+.discount{
+    color:rgb(79,191,90);
+    font-weight: bolder;
+}
+
+.paymant-btn{
+    position: absolute;
+    display:flex;
+    flex-direction: row;
+    bottom: 12px;
+    
+}
+.btn{
+    margin-left: 130px;
+    border:none;
+    background:none;
+    color:red;
+    font-weight: bolder;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.filter-page
+{
+    width: 30%;
+    /* border: 1px solid black ; */
+    margin-left: 10px;
+    margin-top: 5px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.filter-title{
+    background-color: white;
+    width:70%;
+    height:40px;
+    display: flex;
+    align-items: center;
+    border-bottom: 0.5px solid rgb(231, 222, 222);
+}
+.filter-Name{ 
+    margin-left: 10px;
+}
+.filter-box{
+    width:70%;
+    max-height:300px;
+    background-color: white;
+    margin-top: 2px;
+    overflow-y: scroll;
+    
+
+}
+.filter-brands,.filter-input{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.filter-input{
+    width: 80%;
+    height:35px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(204, 201, 201);
+    font-size: 12px;
+    cursor:blink;
+}
+::placeholder{
+    padding: 5px;
+}
+.filter-sub-box{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.name-quintity{
+    margin-left: 10px;
+}
+.filter-quinty{
+    margin-left: 60px;
+}

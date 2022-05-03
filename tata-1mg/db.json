@@ -1,0 +1,162 @@
+{
+  "zandu":[
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398025/jk4vssagy0yg7ivgbtlu.jpg",
+          "title":"Zandu Heart Care Juice",
+          "paking":"bottle",
+          "quintity":"500",
+          "unit":"ml",
+          "type":"juice",
+          "start":"",
+          "rating":"",
+          "mrp":"599",
+          "discount":"42",
+          "payment":"347"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040139/uyjh85hjeh6l24ayeape.jpg",
+          "title":"Zandu Kalamegha Capsule",
+          "paking":"bottle",
+          "quintity":"60",
+          "unit":"",
+          "type":"capsules",
+          "start":"",
+          "rating":"",
+          "mrp":"250",
+          "discount":"25",
+          "payment":"188"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041143/urlyqdtjmkrikdkmp3ph.jpg",
+          "title":"Zandu Ayush Kwath Powder",
+          "paking":"bottle",
+          "quintity":"100",
+          "unit":"gm",
+          "type":"powder",
+          "start":"",
+          "rating":"",
+          "mrp":"160",
+          "discount":"25",
+          "payment":"120"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191044/odnh8k1jgpbcxirsiafq.jpg",
+          "title":"Zandu Swasthyaveda Joint Therapy Kit",
+          "paking":"kit",
+          "quintity":"2",
+          "unit":"",
+          "type":"packs",
+          "start":"",
+          "rating":"",
+          "mrp":"399",
+          "discount":"20",
+          "payment":"319"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638262723/xcdbd57laikhblncj9vq.jpg",
+          "title":"Zandu Nityam Churna",
+          "paking":"bottle",
+          "quintity":"50",
+          "unit":"gm",
+          "type":"churan",
+          "start":"4.5",
+          "rating":"72",
+          "mrp":"52",
+          "discount":"2",
+          "payment":"50.96"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600249252/cropped/s6tvhxojkskkbyezmlac.png",
+          "title":"Zandu Sona Chandi Chyawanplus with Boro Plus Free",
+          "paking":"jar",
+          "quintity":"450",
+          "unit":"gm",
+          "type":"past",
+          "start":"4.4",
+          "rating":"196",
+          "mrp":"185",    
+          "discount":"16",
+          "payment":"154"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190559/rvyf5omo1yvxdyz0uc3v.jpg",
+          "title":"Zandu Papaya Leaf Extract Tablet",
+          "paking":"bottle",
+          "quintity":"20",
+          "unit":"",
+          "type":"tablet",
+          "start":"",
+          "rating":"",
+          "mrp":"399",
+          "discount":"25",
+          "payment":"299"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191243/qzribhdqsczg90zp3xtr.jpg",
+          "title":"Zandu Haldi Drop",
+          "paking":"bottle",
+          "quintity":"32",
+          "unit":"ml",
+          "type":"drop",
+          "start":"3.3",
+          "rating":"6",
+          "mrp":"190",
+          "discount":"24",
+          "payment":"143"
+      },
+      {
+          "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600149703/cropped/nouyyqvekp7gqipbuoae.jpg",
+          "title":"Zandu Lalima Blood and Skin Purifier Syrup",
+          "paking":"bottle",
+          "quintity":"100",
+          "unit":"ml",
+          "type":"syrup",
+          "start":"4.3",
+          "rating":"57",
+          "mrp":"60",
+          "discount":"2",
+          "payment":"58.8"
+      },
+      {
+        "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190559/rvyf5omo1yvxdyz0uc3v.jpg",
+        "title":"Zandu Papaya Leaf Extract Tablet",
+        "paking":"bottle",
+        "quintity":"20",
+        "unit":"",
+        "type":"tablet",
+        "start":"",
+        "rating":"",
+        "mrp":"399",
+        "discount":"25",
+        "payment":"299"
+    },
+    {
+        "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191243/qzribhdqsczg90zp3xtr.jpg",
+        "title":"Zandu Haldi Drop",
+        "paking":"bottle",
+        "quintity":"32",
+        "unit":"ml",
+        "type":"drop",
+        "start":"3.3",
+        "rating":"6",
+        "mrp":"190",
+        "discount":"24",
+        "payment":"143"
+    },
+    {
+        "img":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600149703/cropped/nouyyqvekp7gqipbuoae.jpg",
+        "title":"Zandu Lalima Blood and Skin Purifier Syrup",
+        "paking":"bottle",
+        "quintity":"100",
+        "unit":"ml",
+        "type":"syrup",
+        "start":"4.3",
+        "rating":"57",
+        "mrp":"60",
+        "discount":"2",
+        "payment":"58.8"
+    }
+  ]
+
+  
+}

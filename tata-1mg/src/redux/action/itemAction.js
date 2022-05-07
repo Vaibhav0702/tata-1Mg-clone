@@ -4,7 +4,7 @@ import axios from "axios"
 
 export const setItemAction = (paylad)=>async(dispatch)=>
 {
-        axios.post("http://localhost:8085/Items",paylad).then(({data}) =>{
+        axios.post("http://localhost:5000/item",paylad).then(({data}) =>{
             console.log(data)
                 dispatch({
                     type:ADD_ITEMS_REQUEST,
@@ -16,8 +16,7 @@ export const setItemAction = (paylad)=>async(dispatch)=>
 export const getItemAction = () => async (dispatch) => {
     try {
       dispatch({ type: GET_ITEMS_REQUEST});
-      const { data } = await axios.get("http://localhost:8085/Items");
-      console.log(data,"ddddddddddddddddddddddddddddddddddddd")    
+      const { data } = await axios.get("http://localhost:5000/item");   
       dispatch({ type: GET_ITEMS_SECCESS, payload: data });
     } catch (error) {
       dispatch({

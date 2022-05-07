@@ -6,13 +6,11 @@ import {
   import axios from "axios";
 
 
-
-
-
+  
 export const UsesAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_USES_REQUEST });
-      const { data } = await axios.get("http://localhost:8085/USES");
+      const { data } = await axios.get("http://localhost:5000/uses");
       console.log(data,"data action brands se aara h")
       dispatch({ type: GET_USES_SECCESS, payload: data });
     } catch (error) {

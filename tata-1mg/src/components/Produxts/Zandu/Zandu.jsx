@@ -104,8 +104,8 @@ export default function Zandu() {
     </div>
     <ReactPaginate
       className="paginate"
-        previousLabel={"<- Previous"}
-        nextLabel={"Next ->"}
+        previousLabel={"← Previous"}
+        nextLabel={"Next →"}
         pageCount={pageCount}
         onPageChange={handlePageClick}
         containerClassName={"pagination"}

@@ -9,7 +9,7 @@ import axios from "axios";
 export const BrandAction = () => async (dispatch) => {
   try {
     dispatch({ type: GET_BRAND_REQUEST });
-    const { data } = await axios.get("http://localhost:8085/BRANDS");
+    const { data } = await axios.get("http://localhost:5000/mybrand");
     console.log(data, "data action brands se aara h");
     dispatch({ type: GET_BRAND_SECCESS, payload: data });
   } catch (error) {

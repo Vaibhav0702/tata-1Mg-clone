@@ -10,7 +10,7 @@ import {
 export const ProductFormAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_PRODUCTFORM_REQUEST });
-      const { data } = await axios.get("http://localhost:8085/PRODUCTFORM");
+      const { data } = await axios.get("http://localhost:5000/productForm");
       console.log(data,"data action brands se aara h")
       dispatch({ type: GET_PRODUCTFORM_SECCESS, payload: data });
     } catch (error) {

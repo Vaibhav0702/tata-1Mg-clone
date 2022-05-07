@@ -1,0 +1,41 @@
+input:where([type="radio"]){
+    
+    width              : 22px;
+    height             : 22px;
+    border             : 2px solid crimson;
+    border-radius      : 4px;
+    fill-rule: evenodd;
+    fill: rgb(255, 111, 97);
+    accent-color: crimson;
+  }
+  
+  p{
+      margin-left: 5px;
+  }
+  .cross{
+      text-decoration: line-through;
+      font-size: 14px;
+  }
+  .price{
+      font-size: 20px;
+  }
+  .off{
+      color: green;
+      font-weight: 500;
+      font-size: 17px;
+      margin-left: 1%;
+      background-color:rgb(219, 247, 246);
+  }
+  .free{
+      font-size: 14px;
+  }
+  .all{
+      font-size: 14px;
+      color: gray;
+      font-weight: 400;
+  }
+  .img{
+    width: 98%;
+    height: 50vh;
+    object-fit: contain;
+  }

@@ -1,12 +1,13 @@
-
 import "./navbar.css"
-
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+import {ShoppingCartOutlined} from "@material-ui/icons";
+import {Badge} from '@material-ui/core';
 
 
 export const Navbar = () => {
 
-
+    const quantity = useSelector(state=>state.cart.quantity)
     return <div className="header">
 
         {/* ---------------------------1st line---------------------------------------------- */}
@@ -50,7 +51,11 @@ export const Navbar = () => {
 
                 <div className="offers" >Offers</div>
 
-                <div className="cart_icon" id="cart_icon" ></div>
+                <div >
+                <Badge badgeContent={quantity} color="secondary">
+                    <ShoppingCartOutlined/>
+                </Badge>
+                </div>
 
                 <div className="help" >Need Help?</div>
 

@@ -12,7 +12,7 @@ import {
 export const UsesAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_USES_REQUEST });
-      const { data } = await axios.get("http://localhost:8080/USES");
+      const { data } = await axios.get("http://localhost:8085/USES");
       console.log(data,"data action brands se aara h")
       dispatch({ type: GET_USES_SECCESS, payload: data });
     } catch (error) {

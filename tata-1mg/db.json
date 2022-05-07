@@ -1,0 +1,267 @@
+{
+    "product":[   
+            {
+                 "id":1,  
+                 "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398025/jk4vssagy0yg7ivgbtlu.jpg",
+                 "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398081/mfiaowqwspzncfxsdqdk.jpg",
+                 "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398052/ar1rfugxrloi7rmmpyz7.jpg",
+                 "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398013/h4o0d0bqcs0u4rkrowlr.jpg",
+                 "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398067/zvoklzlcsivqdt5bwql5.jpg",
+                 "img5": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1639398038/sjyknkrtfhcfbtvoazgp.jpg",
+                 "title": "Zandu Heart Care Juice",
+                 "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                 "line1":"Helps in maintaining a healthy heart function",
+                 "line2":"Useful in relieving stress",
+                 "line3":"Possesses cardioprotective properties",
+                 "pack":3,
+                 "mrp": "599",
+                 "quintity": "500",
+                 "unit": "ml",
+                 "type": "juice",
+                 "form":"bottle",
+                 "discount": "42",
+                 "people":32,
+                 "star": "4.2 *",
+                 "rating": "",
+                 "payment": "347"
+                
+            },
+            {
+                "id":2,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040139/uyjh85hjeh6l24ayeape.jpg",
+                "title": "Zandu Kalamegha Capsule",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040152/tw3jzaj6yvmvmsnbht25.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040178/js7jq3jrb3ximmunbmkl.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040190/rogsrod7mjpwbj3zaxxt.jpg",
+                "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040164/px5ciafm6gbqs8h7oycr.jpg",
+                "img5": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631040164/px5ciafm6gbqs8h7oycr.jpg",  
+                "Subtitle": "Emami Ltd",
+                "line1":"Supports healthy liver functioning",
+                "line2":"Helps in detoxification of the liver",
+                "line3":"Improves digestion and is useful against intestinal worms",
+                "pack":2,
+                "type": "capsules",
+                "form":"bottle",
+                "quintity": "60",
+                "unit": "",
+                "mrp": "250",
+                "discount": "25",
+                "payment": "188",
+                "star": "3.8 *",
+                "rating": "",
+                "people":45
+                
+            },
+            {
+                "id":3,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041143/urlyqdtjmkrikdkmp3ph.jpg",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041167/sjc3u6fu2orwsgjhdb15.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041155/s35sfy4dpyys4iq8zpet.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041180/etec61voj2yegx6oqxtc.jpg",
+                "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631041130/x4i54elra4n84k6iaqv0.jpg",
+                "Subtitle": "Emami Ltd",
+                "title": "Zandu Ayush Kwath Powder",
+                "line1":"May help in improving digestion",
+                "line2":"Provides help in burning stored fat and processing glucose in the blood",
+                "line3":" Lowers cholesterol and treats Indigestion",
+                "pack":4,
+                "type": "powder",
+                "form":"bottle",
+                "quintity": "100",
+                "unit": "gm",
+                "mrp": "160",
+                "discount": "25",
+                "payment": "120",
+                "star": "4.4 *",
+                "rating": "",
+                "people":89
+
+                
+            },
+            {
+                "id":4,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191044/odnh8k1jgpbcxirsiafq.jpg",
+                "title": "Zandu Swasthyaveda Joint Therapy Kit",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191075/dyhfr2uxcwie7u1gr1hy.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191088/xpukfubvxxrbos5uf9hr.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191058/bfcxlvslkqoqbideut8q.jpg",
+                "Subtitle": "Emani Ltd",
+                "line1":"It is specially curated for ages 60 and above",
+                "line2":"It has the goodness of 71 herbs",
+                "line3":"Relieves joint pain",
+                "pack":2,
+                "type": "packs",
+                "form":"kit",
+                "quintity": "2",
+                "unit": "",
+                "mrp": "399",
+                "discount": "20",
+                "payment": "319",
+                "star": "3.2 *",
+                "rating": "",
+                "people":144
+                
+                
+            },
+
+            {
+                "id":5,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638262723/xcdbd57laikhblncj9vq.jpg",
+                "title": "Zandu Nityam Churna",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638262208/ddc4dhawddxtkj8cxypl.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638262598/sklxt5laubyr3sdsrrd0.jpg",
+                "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                "line1":"Lowers cholesterol and treats Indigestion",
+                "line2":"Helps to boosts the immune system",
+                "line3":"Helps in improving strength and stamina",
+                "pack":1,
+                "type": "churan",
+                "form":"bottle",
+                "quintity": "50",
+                "unit": "gm",
+                "mrp": "52",
+                "discount": "2",
+                "payment": "50.96",
+                "star": "4.5 *",
+                "rating": "72 Rating",
+                "people":45
+                
+                
+
+
+            },
+            {
+                "id":6,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600249252/cropped/s6tvhxojkskkbyezmlac.png",
+                "title": "Zandu Sona Chandi Chyawanplus with Boro Plus Free",
+                "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                "line1":"It has the goodness of 71 herbs",
+                "line2":"Helps in improving strength and stamina",
+                "line3":"Helps to boosts the immune system",
+                "pack":4,
+                "type": "paste",
+                "form":"jar",
+                "quintity": "450",
+                "unit": "gm",
+                "mrp": "185",
+                "discount": "16",
+                "payment": "154",
+                "star": "4.4 *",
+                "rating": "196 Rating",
+                "people":98
+                
+            },
+            {
+                "id":7,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190559/rvyf5omo1yvxdyz0uc3v.jpg",
+                "title": "Zandu Papaya Leaf Extract Tablet",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190524/fuxo0rat8u8vp3sebylv.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190573/wpkqqyopqntow9v5dwso.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190547/ewrb7narc9pxyr2j7xhs.jpg",
+                "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190514/o8iuptq90qluq1cxnh3z.jpg",
+                "img5": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190537/stzroqpbufmvxcc4ecym.jpg",
+                "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                "line1":"Provides help in burning stored fat and processing glucose in the blood",
+                "line2":"It improves immunity and supports the recovery process",
+                "line3":"Helps in improving strength and stamina",
+                "pack":2,
+                "type": "tablet",
+                "form":"bottle",
+                "quintity": "20",
+                "unit": "",
+                "mrp": "399",
+                "discount": "25",
+                "payment": "299",
+                "star": "2.8 *",
+                "rating": "",
+                "people":39
+                
+
+            },
+            {
+                "id":8,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191243/qzribhdqsczg90zp3xtr.jpg",
+                "title": "Zandu Haldi Drop",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191254/gyvdxzejailpbnhlcj7w.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191231/winvyj7a3adgbl2dtopa.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191207/t6zu5eqwdpzrfv5qw3lk.jpg",
+                "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191192/m2sd98gehh5oayto2dnh.jpg",
+                "img5": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631191267/bzpewbcuou1c2289y7h5.jpg",
+                "Subtitle": "Emami Ltd",
+                "line1":"Provides help in burning stored fat and processing glucose in the blood",
+                "line2":"Helps to boosts the immune system",
+                "line3":"Helps in improving strength and stamina",
+                "pack":2,
+                "type": "drop",
+                "form":"bottle",
+                "quintity": "32",
+                "unit": "ml",
+                "mrp": "190",
+                "discount": "24",
+                "payment": "143",
+                "star": "3.3 *",
+                "rating": "6 Rating",
+                "people":13
+                
+            },
+            {
+                "id":9,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600149703/cropped/nouyyqvekp7gqipbuoae.jpg",
+                "title": "Zandu Lalima Blood and Skin Purifier Syrup",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600141345/cropped/am0arqkgkx2rw8iaoy92.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600141349/cropped/tg018b3ecwvizt59wbm8.jpg",
+                "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                "line1":"Provides help in burning stored fat and processing glucose in the blood",
+                "line2":"It improves immunity and supports the recovery process",
+                "line3":"Helps in improving strength and stamina",
+                "pack":3,
+                "type": "syrup",
+                "form":"bottle",
+                "quintity": "100",
+                "unit": "ml",
+                "mrp": "60",
+                "discount": "2",
+                "payment": "58.8",
+                "star": "4.3 *",
+                "rating": "57 Rating",
+                "people":88
+                
+
+            },
+            {
+                "id":10,
+                "img": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190559/rvyf5omo1yvxdyz0uc3v.jpg",
+                "title": "Zandu Papaya Leaf Extract Tablet",
+                "img1": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190524/fuxo0rat8u8vp3sebylv.jpg",
+                "img2": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190573/wpkqqyopqntow9v5dwso.jpg",
+                "img3": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190547/ewrb7narc9pxyr2j7xhs.jpg",
+                "img4": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190514/o8iuptq90qluq1cxnh3z.jpg",
+                "img5": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631190537/stzroqpbufmvxcc4ecym.jpg",
+                "Subtitle": "Zandu Pharmaceutical Works Ltd",
+                "line1":"It helps to increase blood platelet count during dengue",
+                "line2":"It improves immunity and supports the recovery process",
+                "line3":"Helps in improving strength and stamina",
+                "pack":2,
+                "type": "tablet",
+                "form":"bottle",
+                "quintity": "20",
+                "unit": "",
+                "mrp": "399",
+                "discount": "25",
+                "payment": "299",
+                "star": "3.6 *",
+                "rating": "",
+                "people":23
+                
+
+            }
+
+            
+
+
+          
+        
+        
+        
+    ]
+}

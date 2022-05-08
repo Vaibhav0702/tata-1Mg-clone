@@ -194,13 +194,6 @@ const Product = () => {
        catch(err){}
    }
 
-   const handleClick = () =>{
-    //update cart
-//    dispatch(addProduct({...product}))
-//     console.log(product)
-console.log("Here")
-    
-  }
  
 
 
@@ -217,7 +210,7 @@ console.log("Here")
                 <Img1 onClick={()=>{setShowimg(product.img5)}} src={product.img5}></Img1>
             </ImgeContainer>
             <ImgContainer>
-                {showimg==""?<img className="img" src={product.img}></img>:<Image src={showimg}></Image>}
+                {showimg===""?<img className="img" src={product.img}></img>:<Image src={showimg}></Image>}
             </ImgContainer>
             <InfoContainer>
                 <Title>{product.title}</Title>

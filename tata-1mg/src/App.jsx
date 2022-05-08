@@ -20,8 +20,6 @@ function App() {
         <Route path='/zandu' element={<Zandu />} ></Route>
         <Route path='/zandu/:id' element={<Product/>} ></Route>
 
-
-
       </Routes>
 
       <Footer/>

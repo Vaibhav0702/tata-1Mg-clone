@@ -356,5 +356,12 @@ background-color:rgb(255, 111, 97);
     text-decoration: none;
     cursor: pointer;
   }
-
+#CartItem{
+  background-color: rgb(233, 227, 227);
+  padding: 2px;
+  border-radius: 50%;
+  position: relative;
+  bottom: 10px;
+  left: 4px;
+}
 

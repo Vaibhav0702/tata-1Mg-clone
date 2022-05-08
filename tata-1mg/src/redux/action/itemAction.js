@@ -4,7 +4,7 @@ import axios from "axios"
 
 export const setItemAction = (paylad)=>async(dispatch)=>
 {
-        axios.post("http://localhost:5000/item",paylad).then(({data}) =>{
+       await axios.post("http://localhost:5000/item",paylad).then(({data}) =>{
             console.log(data)
                 dispatch({
                     type:ADD_ITEMS_REQUEST,

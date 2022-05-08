@@ -6,6 +6,7 @@ import { ProductAction } from "../../../redux/action/productAction";
 import { setItemAction, getItemAction } from "../../../redux/action/itemAction";
 import Fillter from "../../Filtter/Fillter";
 import ReactPaginate from "react-paginate";
+import { useNavigate } from 'react-router';
 
 const Per_Page = 16;
 
@@ -13,6 +14,8 @@ export default function Zandu() {
   const dispatch = useDispatch();
   const productReducer = useSelector((state) => state.productReducer);
   const itemReducer = useSelector((state) => state.itemReducer);
+
+  let navigate = useNavigate();
 
   // items length
   console.log(
@@ -52,15 +55,22 @@ export default function Zandu() {
 
   products = products.slice(offset, onset);
 
+
+
+
   return (
     <>
     <div className="Zandu-Fillter-page">
       <Fillter />
       <div className="Zandu-page">
         {products.map((data) => (
-          <div className="Zandu-main-contaner" key={data.id}>
-            <div className="Zandu-upper-contaner">
-              <img src={data.img} alt="img" srcset="" className="img" />
+          <div className="Zandu-main-contaner" key={()=>{
+
+          }}>
+            <div className="Zandu-upper-contaner" onClick={()=>{
+              navigate(`/zandu/${data._id}`)
+            }}>
+              <img src={data.img} alt="img" srcset="" className="img"/>
             </div>
             <div className="Zandu-middle-contaner">
               <p className="title">{data.title}</p>
@@ -104,7 +114,7 @@ export default function Zandu() {
     </div>
     <ReactPaginate
       className="paginate"
-        previousLabel={"← Previous"}
+        previousLabel={" Previous"}
         nextLabel={"Next →"}
         pageCount={pageCount}
         onPageChange={handlePageClick}

@@ -7,16 +7,18 @@ font-family: 'Roboto', sans-serif; */
     width:95%;
     display:flex;
     flex-direction: row;
+    margin-bottom: 150px;
+    
 }
 
 .Zandu-page
 {
     width:100%;
     /* height:1500px;  */
-    /* border:1px solid red; */
+    /* border:1px solid red;  */
     position:relative;
     display: grid;
-    grid-template-columns: repeat(4,25%);
+    grid-template-columns: repeat(4,24%);
     gap:2%;
     left:2%;
     top:50px;
@@ -29,6 +31,8 @@ font-family: 'Roboto', sans-serif; */
     height:390px; 
     position:relative;
     background-color: white;
+    
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 
 }
 .Zandu-upper-contaner
@@ -37,6 +41,7 @@ font-family: 'Roboto', sans-serif; */
     justify-content:center;
     align-items:center;
 }
+
 .Zandu-upper-contaner img{
     margin-top: 15px;
     height:170px;
@@ -47,6 +52,8 @@ font-family: 'Roboto', sans-serif; */
     margin-top: 25px;
     font-size:15px;
 }
+
+
 .product-info{ 
     margin-top: -15px;
     font-size:13px;
@@ -59,7 +66,7 @@ font-family: 'Roboto', sans-serif; */
 }
 .star-rating{
     font-size:15px;
-    margin-top: -15px;
+    margin-top: 10px;
     color:rgb(163, 163, 163);
 
 }
@@ -71,12 +78,13 @@ font-family: 'Roboto', sans-serif; */
 .Zandu-bottom-contaner{
     font-family: 'Lora', serif;
     margin-left: 10px;
-    margin-top: 15px;
+    margin-top: 0px;
 }
 .mrp-discount
 {
     font-size:12px;
-    margin-top: -15px;
+    margin-top: 0px;
+
 }
 .mrp
 {
@@ -97,14 +105,17 @@ font-family: 'Roboto', sans-serif; */
 }
 .paymant{
     /* margin-top: -15px; */
+    font-size: 20px;
+    
 }
 .btn{
-    margin-left: 130px;
+    margin-left: 90px;
     border:none;
     background:none;
-    color:red;
+    color:#FF6F61;
     font-weight: bolder;
     cursor: pointer;
+    margin-top: 13px;
 }
 
 /* !  Pagination css */
@@ -126,12 +137,12 @@ font-family: 'Roboto', sans-serif; */
     width: 150px;
     text-align: center;
     background-color: white;
-    color: red;
+    color: #FF6F61;
     /* margin: 2px; */
     /* margin-left: -14px; */
     margin-right: 5px;
     left: -10px;
 }
 .paginate li:hover{
-    background-color: green;
+    background-color: rgb(167, 227, 241);
 }

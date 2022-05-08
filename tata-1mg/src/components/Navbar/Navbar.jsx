@@ -1,10 +1,31 @@
 
 import "./navbar.css"
+import { setItemAction, getItemAction } from "../../redux/action/itemAction";
+import { useDispatch, useSelector } from "react-redux";
+import { useEffect, useState } from "react";
+
 
 import { Link } from "react-router-dom";
 
 
 export const Navbar = () => {
+
+
+    // ! Abhishek Mehra
+    const dispatch = useDispatch();
+  const itemReducer = useSelector((state) => state.itemReducer);
+    const CardItem = itemReducer.items.length
+
+    useEffect(() => {
+        dispatch(getItemAction());
+      }, [dispatch]);
+
+
+
+
+
+
+
 
 
     return <div className="header">
@@ -50,7 +71,7 @@ export const Navbar = () => {
 
                 <div className="offers" >Offers</div>
 
-                <div className="cart_icon" id="cart_icon" ></div>
+                <div className="cart_icon" id="cart_icon" >{CardItem>0?<spna id="CartItem">{CardItem}</spna>:null}</div>
 
                 <div className="help" >Need Help?</div>
 

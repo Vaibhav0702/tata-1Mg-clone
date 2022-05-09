@@ -6,7 +6,6 @@ import { useEffect, useState } from "react";
 // import rate from "../Pictures/rate.png";
 
 function SampleNextArrow(props) {
-  
   const { className, style, onClick } = props;
   return (
     <div
@@ -33,7 +32,6 @@ function Cara(url) {
   // let content = null;
 
   useEffect(() => {
-    console.log(url)
     axios.get(url.url).then((response) => {
       setProduct(response.data);
     });

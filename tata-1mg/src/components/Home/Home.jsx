@@ -7,9 +7,11 @@ import Cara from "./cara";
 import Health from "./checkup";
 import Ayurveda from "./Ayurveda";
 
-function Home() {
-  return (
+export const Home = () => {
+
+return (
     <div className="home">
+
       <div className="home_container">
         <div className="carrousel">
           <div>
@@ -144,6 +146,6 @@ function Home() {
       </div>
     </div>
   );
-}
 
-export {Home};
+
+}

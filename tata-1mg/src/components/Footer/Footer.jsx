@@ -196,15 +196,15 @@ export const Footer = () => {
               
                 </div>
              
-                <hr />
-                <p id="reserve">© 2022 Tata 1mg. All rights reserved. In compliance with Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945, we don't process requests for Schedule X and other habit forming drugs.</p>
+              
 
             </div>
 
         </div>
 
 
-
+        <hr />
+                <p id="reserve">© 2022 Tata 1mg. All rights reserved. In compliance with Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945, we don't process requests for Schedule X and other habit forming drugs.</p>
 
 
     </div>

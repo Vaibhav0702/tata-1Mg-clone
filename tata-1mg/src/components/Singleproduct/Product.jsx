@@ -145,7 +145,7 @@ const Img2 = styled.img`
 const Add = styled.p`
     font-size: 14px;
     border: 1px dashed black;
-    margin-top:80px;
+    margin-top:10px;
 `
 const Span = styled.span`
     font-weight: 900;

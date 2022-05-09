@@ -192,8 +192,10 @@ export const Footer = () => {
                     <div class="dec">
                         <h3 id="last_txt">India's only LegitScript and ISO/IEC 27001 certified online healthcare platform</h3>
                     </div>
-
+                
+              
                 </div>
+             
                 <hr />
                 <p id="reserve">© 2022 Tata 1mg. All rights reserved. In compliance with Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945, we don't process requests for Schedule X and other habit forming drugs.</p>
 

@@ -23,13 +23,13 @@
 }
 
 .header_first_row_first_section{
-    width: 70%;
+    width: 80%;
     background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding-right: 250px;
+    padding-right: 150px;
     padding-left: 30px;
 }
 

@@ -7,7 +7,9 @@ import { Link } from "react-router-dom";
 import { SignUpLogin } from "./signUpLogin";
 
 export const Navbar = () => {
-  // ! Abhishek Mehra
+
+  // -----------
+
   const dispatch = useDispatch();
   const itemReducer = useSelector((state) => state.itemReducer);
   const CardItem = itemReducer.items.length;
@@ -23,7 +25,7 @@ export const Navbar = () => {
       <div className="header_first_row">
         <div className="header_first_row_first_section">
           <div className="logo">
-            <Link className="logo_image" to="/home">
+            <Link className="logo_image" to="/">
               <img
                 className="logo_image"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/TATA_1mg_Logo.svg/2560px-TATA_1mg_Logo.svg.png"

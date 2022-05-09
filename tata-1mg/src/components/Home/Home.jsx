@@ -83,7 +83,10 @@ return (
             Featured brands
             <button className="btn1">See all</button>
           </div>
+          <a href="/zandu">
           <Cara url={"http://localhost:5000/brands"} />
+          </a>
+          
         </div>
       </div>
       <div>

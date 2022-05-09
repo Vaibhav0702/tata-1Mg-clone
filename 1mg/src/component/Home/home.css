@@ -1,7 +1,7 @@
-body {
+* {
   font-family: "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #66686b;
 }
+
 .carrousel {
   display: flex;
   width: 100%;

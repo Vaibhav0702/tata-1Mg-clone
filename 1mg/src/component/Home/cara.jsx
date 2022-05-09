@@ -3,6 +3,7 @@ import Slider from "react-slick";
 import "./cara.css";
 import axios from "axios";
 import { useEffect, useState } from "react";
+// import rate from "../Pictures/rate.png";
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -51,13 +52,12 @@ function Cara(url) {
         <Slider {...settings}>
           {Product.map((data) => (
             <div id="Imgdiv" key={data.id}>
-              <img
-                style={{ width: "150", height: "150px" }}
-                src={data.Image}
-                alt=""
-              />
-
+              <div className="img2">
+                <img className="img1" src={data.Image} alt="" />
+              </div>
               <span className="imgtitle">{data.Titel}</span>
+              <div className="rating">{data.Rating}</div>
+              <div>{data.MRP}</div>
               <span className="imgtitle">{data.Discription}</span>
             </div>
           ))}

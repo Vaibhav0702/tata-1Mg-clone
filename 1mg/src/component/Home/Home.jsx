@@ -5,6 +5,7 @@ import "./cara.css";
 import Test from "./testCarausel";
 import Cara from "./cara";
 import Health from "./checkup";
+import Ayurveda from "./Ayurveda";
 
 function Home() {
   return (
@@ -105,7 +106,9 @@ function Home() {
         <div className="head">
           <span>Trending now</span>
         </div>
-        <Cara url={"http://localhost:5000/trending"} />
+        <div>
+          <Cara url={"http://localhost:5000/trending"} />
+        </div>
       </div>
       <div>
         <div>
@@ -129,7 +132,7 @@ function Home() {
       </div>
       <div>
         <div className="head">
-          <span>energydrink</span>
+          <span>Energy Drink</span>
         </div>
         <Cara url={"http://localhost:5000/energydrink"} />
       </div>
@@ -137,7 +140,7 @@ function Home() {
         <div className="head">
           <span>Ayurveda</span>
         </div>
-        <Cara url={"http://localhost:5000/ayurveda"} />
+        <Ayurveda url={"http://localhost:5000/ayurveda"} />
       </div>
     </div>
   );

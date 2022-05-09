@@ -195,9 +195,6 @@ const Product = () => {
    }
 
  
-
-
-
   return (
     <Container>
         <Wrapper>

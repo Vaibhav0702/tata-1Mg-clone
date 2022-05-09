@@ -1,0 +1,47 @@
+* {
+  font-family: "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.carrousel {
+  display: flex;
+  width: 100%;
+
+  border: 1px solid #726f6f;
+  margin: 0;
+}
+.c1 {
+  width: 100%;
+}
+.c2 {
+  width: 100%;
+}
+
+.quote {
+  margin: auto;
+  text-align: center;
+  border: 2px solid #e0e0e0;
+  background-color: #fff;
+}
+.quote h1 {
+  color: #66686b;
+  font-size: 22px;
+  margin: 26px 0;
+}
+.poster {
+  padding: 30px;
+}
+.head > button {
+  border-radius: 4px;
+  /* cursor: pointer; */
+  background-color: #ff6f61;
+  color: #fff;
+  height: 2.5rem;
+  border: 1px red solid;
+  padding: 5px 10px !important;
+  height: 1.7rem;
+  font-size: 0.75rem;
+  line-height: 1.1rem;
+  border: 0;
+  text-align: center;
+  text-transform: uppercase;
+}

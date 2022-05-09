@@ -70,7 +70,7 @@ const Uses = styled.p`
 `
 
 const Button1 = styled.button`
-    width: 210px;
+    width: 230px;
     padding: 10px;
     margin: 5px;
     border-radius: 7px;
@@ -145,7 +145,7 @@ const Img2 = styled.img`
 const Add = styled.p`
     font-size: 14px;
     border: 1px dashed black;
-    margin-top:50px;
+    margin-top:80px;
 `
 const Span = styled.span`
     font-weight: 900;
@@ -210,7 +210,7 @@ const Product = () => {
                 <Img1 onClick={()=>{setShowimg(product.img5)}} src={product.img5}></Img1>
             </ImgeContainer>
             <ImgContainer>
-                {showimg===""?<img className="img" src={product.img}></img>:<Image src={showimg}></Image>}
+                {showimg===""?<img className="imag" src={product.img}></img>:<Image src={showimg}></Image>}
             </ImgContainer>
             <InfoContainer>
                 <Title>{product.title}</Title>

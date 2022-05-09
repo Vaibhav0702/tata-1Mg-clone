@@ -29,7 +29,7 @@ export function SignUpLogin() {
 
   return (
     <div>
-      <span onClick={handleLogin}>Login</span>
+      <span onClick={handleLogin} style={{position:"relative",left:"-10px"}}>Login</span>
       <span onClick={handleSignUp}>Sign Up</span>
 
       <div>

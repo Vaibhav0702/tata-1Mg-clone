@@ -70,7 +70,7 @@ export default function Zandu() {
             <div className="Zandu-upper-contaner" onClick={()=>{
               navigate(`/zandu/${data._id}`)
             }}>
-              <img src={data.img} alt="img" srcset="" className="img"/>
+              <img src={data.img} alt="img" srcset="" className="imag"/>
             </div>
             <div className="Zandu-middle-contaner">
               <p className="title">{data.title}</p>
@@ -99,7 +99,7 @@ export default function Zandu() {
               <div className="paymant-btn">
                 <p className="paymant">₹{data.payment}</p>
                 <button
-                  className="btn"
+                  className="btan"
                   onClick={() => {
                     dispatch(setItemAction(data));
                   }}

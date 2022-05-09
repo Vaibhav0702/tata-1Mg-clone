@@ -30,7 +30,7 @@
 .poster {
   padding: 30px;
 }
-.head > button {
+.head > .btn1 {
   border-radius: 4px;
   /* cursor: pointer; */
   background-color: #ff6f61;

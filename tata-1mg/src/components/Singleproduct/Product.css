@@ -9,9 +9,9 @@ input:where([type="radio"]){
     accent-color: crimson;
   }
   
-  p{
+  /* p{
       margin-left: 5px;
-  }
+  } */
   .cross{
       text-decoration: line-through;
       font-size: 14px;
@@ -34,7 +34,7 @@ input:where([type="radio"]){
       color: gray;
       font-weight: 400;
   }
-  .img{
+  .imag{
     width: 98%;
     height: 50vh;
     object-fit: contain;

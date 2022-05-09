@@ -72,7 +72,7 @@ return (
         <div className="health_check">
           <div className="head">
             <span>Full body health Checkups</span>
-            <button className="btn">See all</button>
+            <button className="btn1">See all</button>
           </div>
           <div>
             <Health />
@@ -81,7 +81,7 @@ return (
         <div className="product">
           <div className="head">
             Featured brands
-            <button className="btn">See all</button>
+            <button className="btn1">See all</button>
           </div>
           <Cara url={"http://localhost:5000/brands"} />
         </div>

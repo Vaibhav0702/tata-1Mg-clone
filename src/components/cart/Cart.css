@@ -1,0 +1,113 @@
+/* .contain{
+    display: flex;
+    justify-content: space-between;
+    margin:50px;
+    border:1px solid red;
+    width: 50px;
+} */
+.maincart{
+    width: 100%;
+    background-color: #F9F9F8;
+}
+.logo{
+    margin-left: 30px;
+}
+.help{
+   justify-content: center;
+   padding-left: 30%;
+}
+.Navbar{
+    display: flex;
+    background-color: #FEFFFE;
+    width: 100%;
+    align-items: center;
+    border: 0.5px solid #E8E9E8;
+
+}
+.searchbox{
+    margin-left: 50px;
+    width: 45%;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    align-self: center;
+    background-color: rgb(230, 227, 227);
+}
+
+.bodyContainer{
+    display: flex;
+    /* border: 1px solid red; */
+    margin-top: 35px;
+    
+}
+.first{
+    flex : 0 0 60%;
+    /* background: blue; */
+    margin-left: 50px;
+    /* border: 1px solid black; */
+}
+
+.second{
+    flex: 0 0 30%;
+    /* background-color: aqua; */
+    /* border: 1px solid blue; */
+}
+.careplan{
+    border: 0.5px solid #E8E9E8;
+
+    background-color: #FEFFFE;
+    width: 85%;
+    margin: auto;
+    margin-left: 0px;
+    line-height: 7px;
+    padding: 10px 10px;
+
+}
+.buttons{
+    display: flex;
+    /* border: 1px solid green; */
+    margin-top: 20px;
+    margin-left: 0;
+    padding-left: 0;
+    justify-content: space-around
+}
+.buttons>button{
+
+    padding: 6px 18px;
+    
+}
+.fbutton{
+background-color: whitesmoke;
+color: #FF6E60;
+border: 1px solid #FF6E60;
+}
+.sbutton{
+    background-color: #FF6E60;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+
+}
+.healthcheck{
+    /* border: 1px solid red; */
+    background-color: #FEFFFE;
+    border: 0.5px solid #E8E9E8;
+    margin-top: 70px;
+    padding: 10px 10px;
+
+}
+.healthcheck>p{
+    line-height: 18px;
+    font-size: small;
+}
+.vital{
+    font-weight: 400;
+    font-size: large;
+}
+.checkpara{
+    display: inline;
+    font-weight: 600;
+    font-size: large;
+}
+
+.checkcontainer{
+    display: flex;
+}

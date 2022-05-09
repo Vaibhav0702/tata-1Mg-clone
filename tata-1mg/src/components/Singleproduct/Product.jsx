@@ -253,7 +253,7 @@ const Product = () => {
                 </Select>
                 of {product.quintity}{product.unit} {product.type}
                 <br/>
-                <Button onClick={()=>{dispatch(setItemAction(product))}}>Add to Cart</Button>
+               <a href="https://www.1mg.com/cart"><Button>Continue</Button></a> 
 
                 <Img2 src="https://tpc.googlesyndication.com/simgad/9410805786234861386"></Img2>
                 <Add><Span>Mobikwik</Span>: Pay with Mobikwik and get up to ₹500 cashback on allopathy medicines. 
@@ -269,3 +269,4 @@ export default Product
 
 
 
+//()=>{dispatch(setItemAction(product))}

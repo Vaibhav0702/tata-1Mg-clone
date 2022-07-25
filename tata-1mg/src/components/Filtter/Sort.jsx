@@ -27,7 +27,7 @@ export default function Sort() {
     return(
         <>
     <span className='sortBy'>Sort by</span>
-    <select className="form-select" aria-label="Default select example" onChange={Sorting}>
+    <select className="form-select" id='form-sort' aria-label="Default select example" onChange={Sorting}>
     <option selected>Relavence</option>
     <option value="rating">Average Customer Rating</option>
     <option value="lowtohigh">Price : Low to High</option>

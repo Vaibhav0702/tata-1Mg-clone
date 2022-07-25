@@ -81,8 +81,11 @@
     width: 150px;
     /* height: 40px; */
     position:absolute;
-    right: 160px;
+    right: 240px;
     margin-top: 12px;
     font-size: 15px;
     font-weight: lighter;
+}
+#form-sort{
+    width: 20%;
 }

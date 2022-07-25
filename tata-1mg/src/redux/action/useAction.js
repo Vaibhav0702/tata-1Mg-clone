@@ -10,8 +10,7 @@ import {
 export const UsesAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_USES_REQUEST });
-      const { data } = await axios.get("http://localhost:5000/uses");
-      console.log(data,"data action brands se aara h")
+      const { data } = await axios.get("https://tatamed.herokuapp.com/uses");
       dispatch({ type: GET_USES_SECCESS, payload: data });
     } catch (error) {
       dispatch({

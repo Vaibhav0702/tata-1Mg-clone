@@ -84,7 +84,7 @@ return (
             <button className="btn1">See all</button>
           </div>
           <a href="/zandu">
-          <Cara url={"http://localhost:5000/brands"} />
+          <Cara url={"https://tatamed.herokuapp.com/brands"} />
           </a>
           
         </div>
@@ -93,26 +93,26 @@ return (
         <div className="head">
           <span>Popular categories</span>
         </div>
-        <Cara url={"http://localhost:5000/categories"} />
+        <Cara url={"https://tatamed.herokuapp.com/categories"} />
       </div>
       <div>
         <div className="head">
           <span>Tata 1mg health products</span>
         </div>
-        <Cara url={"http://localhost:5000/tata1Mg"} />
+        <Cara url={"https://tatamed.herokuapp.com/tata1Mg"} />
       </div>
       <div>
         <div className="head">
           <span>Shop by Health Concerns</span>
         </div>
-        <Cara url={"http://localhost:5000/healthCon"} />
+        <Cara url={"https://tatamed.herokuapp.com/healthCon"} />
       </div>
       <div>
         <div className="head">
           <span>Trending now</span>
         </div>
         <div>
-          <Cara url={"http://localhost:5000/trending"} />
+          <Cara url={"https://tatamed.herokuapp.com/trending"} />
         </div>
       </div>
       <div>
@@ -127,25 +127,25 @@ return (
         <div className="head">
           <span>healthy food</span>
         </div>
-        <Cara url={"http://localhost:5000/healthFood"} />
+        <Cara url={"https://tatamed.herokuapp.com/healthFood"} />
       </div>
       <div>
         <div className="head">
           <span>Popular Combo Deals</span>
         </div>
-        <Cara url={"http://localhost:5000/combos"} />
+        <Cara url={"https://tatamed.herokuapp.com/combos"} />
       </div>
       <div>
         <div className="head">
           <span>Energy Drink</span>
         </div>
-        <Cara url={"http://localhost:5000/energydrink"} />
+        <Cara url={"https://tatamed.herokuapp.com/energydrink"} />
       </div>
       <div>
         <div className="head">
           <span>Ayurveda</span>
         </div>
-        <Ayurveda url={"http://localhost:5000/ayurveda"} />
+        <Ayurveda url={"https://tatamed.herokuapp.com/ayurveda"} />
       </div>
     </div>
   );

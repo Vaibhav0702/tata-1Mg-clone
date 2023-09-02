@@ -12,7 +12,7 @@ import axios from "axios";
 export const ProductAction = () => async (dispatch) => {
   try {
     dispatch({ type: GET_PRODUCT_REQUEST });
-    const { data } = await axios.get("https://tatamed.herokuapp.com/zandu");
+    const { data } = await axios.get("https://tata-1-mg-backend.vercel.app/zandu");
     // console.log(data,"data action se aara h")
     dispatch({ type: GET_PRODUCT_SECCESS, payload: data });
   } catch (error) {

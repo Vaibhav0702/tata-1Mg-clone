@@ -4,7 +4,7 @@ import axios from "axios"
 
 export const setItemAction = (paylad)=>async(dispatch)=>
 {
-       await axios.post("https://tatamed.herokuapp.com/item",paylad).then(({data}) =>{
+       await axios.post("https://tata-1-mg-backend.vercel.app/item",paylad).then(({data}) =>{
             console.log(data)
                 dispatch({
                     type:ADD_ITEMS_REQUEST,
@@ -16,7 +16,7 @@ export const setItemAction = (paylad)=>async(dispatch)=>
 export const getItemAction = () => async (dispatch) => {
     try {
       dispatch({ type: GET_ITEMS_REQUEST});
-      const { data } = await axios.get("https://tatamed.herokuapp.com/item");   
+      const { data } = await axios.get("https://tata-1-mg-backend.vercel.app/item");   
       dispatch({ type: GET_ITEMS_SECCESS, payload: data });
     } catch (error) {
       dispatch({

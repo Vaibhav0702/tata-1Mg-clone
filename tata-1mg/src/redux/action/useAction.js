@@ -10,7 +10,7 @@ import {
 export const UsesAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_USES_REQUEST });
-      const { data } = await axios.get("https://tatamed.herokuapp.com/uses");
+      const { data } = await axios.get("https://tata-1-mg-backend.vercel.app/uses");
       dispatch({ type: GET_USES_SECCESS, payload: data });
     } catch (error) {
       dispatch({

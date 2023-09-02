@@ -84,7 +84,7 @@ return (
             <button className="btn1">See all</button>
           </div>
           <a href="/zandu">
-          <Cara url={"https://tatamed.herokuapp.com/brands"} />
+          <Cara url={"https://tata-1-mg-backend.vercel.app/brands"} />
           </a>
           
         </div>
@@ -93,26 +93,26 @@ return (
         <div className="head">
           <span>Popular categories</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/categories"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/categories"} />
       </div>
       <div>
         <div className="head">
           <span>Tata 1mg health products</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/tata1Mg"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/tata1Mg"} />
       </div>
       <div>
         <div className="head">
           <span>Shop by Health Concerns</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/healthCon"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/healthCon"} />
       </div>
       <div>
         <div className="head">
           <span>Trending now</span>
         </div>
         <div>
-          <Cara url={"https://tatamed.herokuapp.com/trending"} />
+          <Cara url={"https://tata-1-mg-backend.vercel.app/trending"} />
         </div>
       </div>
       <div>
@@ -127,25 +127,25 @@ return (
         <div className="head">
           <span>healthy food</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/healthFood"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/healthFood"} />
       </div>
       <div>
         <div className="head">
           <span>Popular Combo Deals</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/combos"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/combos"} />
       </div>
       <div>
         <div className="head">
           <span>Energy Drink</span>
         </div>
-        <Cara url={"https://tatamed.herokuapp.com/energydrink"} />
+        <Cara url={"https://tata-1-mg-backend.vercel.app/energydrink"} />
       </div>
       <div>
         <div className="head">
           <span>Ayurveda</span>
         </div>
-        <Ayurveda url={"https://tatamed.herokuapp.com/ayurveda"} />
+        <Ayurveda url={"https://tata-1-mg-backend.vercel.app/ayurveda"} />
       </div>
     </div>
   );

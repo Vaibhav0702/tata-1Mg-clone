@@ -10,7 +10,7 @@ import {
 export const ProductFormAction =()=> async (dispatch) => {
     try {
       dispatch({ type: GET_PRODUCTFORM_REQUEST });
-      const { data } = await axios.get("https://tatamed.herokuapp.com/productForm");
+      const { data } = await axios.get("https://tata-1-mg-backend.vercel.app/productForm");
       console.log(data,"data action brands se aara h")
       dispatch({ type: GET_PRODUCTFORM_SECCESS, payload: data });
     } catch (error) {
